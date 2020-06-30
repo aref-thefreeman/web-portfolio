@@ -1,0 +1,28 @@
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+h1{
+    font-size: 40px;
+    
+}
+
+.p{
+   text-align: justify;
+}
+
+.name-highlight{
+    color: orange;
+}
+
+.sameWidthDiv{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+
+.sameWidthDiv img{
+    width: 100%;
+    
+}
